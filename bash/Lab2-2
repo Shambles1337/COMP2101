@@ -1,0 +1,5 @@
+#!bin/bin/bash
+
+title=("Boss" "King" "Lord" "Master" "Overlord")
+title_index=$((RANDOM % ${#titles[@]})
+mytitle=${titles[$title_index]}
