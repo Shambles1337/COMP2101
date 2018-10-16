@@ -8,6 +8,8 @@ Sides=6
 
 #########
 
+
+
 sum=0
 while [ $count -gt 0 ]; do
     roll=$(( $RANDOM % $sides +1 ))
