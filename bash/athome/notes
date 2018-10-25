@@ -1,0 +1,5 @@
+#!/bin/bash
+
+#grep searches for something
+#sed substitues things
+#awk is similar to grep but you can seperate things with it.
